@@ -1,0 +1,4 @@
+GitExerciseInClass
+==================
+
+Exercise in class
